@@ -63,7 +63,7 @@ Before you get started, you need [Python](https://python.org) 3.7 or later to ru
 
 **Deploy to Heroku:**
 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rekulous/CloneCord-Bot/blob/main)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/onmail12/CloneCord-Bot/blob/main)
 
 ## Repl.it
 
